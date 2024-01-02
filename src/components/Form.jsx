@@ -7,7 +7,7 @@ const Form = () => {
     event.preventDefault();
     const formData = new FormData(event.target);
 
-    formData.append("access_key", "YOUR_ACCESS_KEY_HERE");
+    formData.append("access_key", import.meta.env.VITE_SOME_KEY);
 
     const object = Object.fromEntries(formData);
     const json = JSON.stringify(object);
