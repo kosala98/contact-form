@@ -44,7 +44,7 @@ const Form = () => {
           <input
             type="email"
             name="email"
-            placeholder="Your email"
+            placeholder="Your Email"
             className="contact-inputs"
             required
           />

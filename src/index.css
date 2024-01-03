@@ -2,6 +2,6 @@ body {
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
-  font-family: "Outfit";
+  font-family: 'Outfit', sans-serif;
   background:linear-gradient(#ffdad5, #fff7f9);
 }

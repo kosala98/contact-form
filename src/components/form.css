@@ -34,6 +34,7 @@
     border: none;
     outline: none;
     padding-left: 25px;
+    font-family: 'Outfit', sans-serif;
     font-weight: 500;
     color: #666;
     border-radius: 50px;
@@ -57,6 +58,7 @@
     display: flex;
     align-items: center;
     padding: 15px 30px;
+    font-family: 'Outfit', sans-serif;
     font-size: 16px;
     color: #fff;
     gap: 10px;
